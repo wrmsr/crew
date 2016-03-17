@@ -1,13 +1,50 @@
-https://github.com/google/fruit/releases
-https://www.nuget.org/profiles/coapp/
-https://docs.nuget.org/
-http://sourcey.com/libsourcey/#core-modules
+pypi dep scons
+
+
+cenv?
+
+
+
+
+folly
+thrift
+protobuf
+glog
+gflags
+fruit
+llvm
+jxcore
+lua
+luajit
+boost
+zeromq
+proxygen
+leveldb
+rocksdb
+sqlite
+tbb
+bzip2
+lz4
+snappy
+libuv
+guile
+re2
+jemalloc
+bullet3
+z3
 
 
 
 
 
+cmake
+buck
 
 
+ctest
+gtest
+boost.test
 
 
+glog
+boost.log
